@@ -66,4 +66,4 @@ json
 如果您對此專案有任何建議或改進，歡迎通過 GitHub 提交 Issue 或 Pull Request。
 
 作者
-此工具由 [Your Name] 開發，您可以通過 [your-email@example.com] 聯繫我。如有任何問題或改進建議，請隨時聯繫。
+此工具由 BuffaloMachinery 開發，您可以通過 mis@mail.buffalo.com.tw 聯繫我。如有任何問題或改進建議，請隨時聯繫。
